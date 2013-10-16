@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="WcfServer">
+</Property><Property Name="Solution File" Value="C:\Users\Łukasz\Desktop\Backup\WcfServer.sln">
+</Property><Property Name="User Options File" Value="C:\Users\Łukasz\Desktop\Backup\WcfServer.suo">
+</Property><Property Name="Date" Value="1 sierpnia 2012">
+</Property><Property Name="Time" Value="00:33">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="WcfServer.sln" Description="File successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfServer.sln">
+</Event><Event ErrorLevel="0" Project="" Source="WcfServer.suo" Description="File successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfServer.suo">
+</Event><Event ErrorLevel="0" Project="WcfServer" Source="WcfServer\WcfServer.csproj" Description="Project file successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfServer\WcfServer.csproj">
+</Event><Event ErrorLevel="0" Project="WcfServer" Source="WcfServer\AboutBox1.cs" Description="File successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfServer\AboutBox1.cs">
+</Event><Event ErrorLevel="0" Project="WcfServer" Source="WcfServer\AboutBox1.Designer.cs" Description="File successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfServer\AboutBox1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WcfServer" Source="WcfServer\Server.cs" Description="File successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfServer\Server.cs">
+</Event><Event ErrorLevel="0" Project="WcfServer" Source="WcfServer\Server.Designer.cs" Description="File successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfServer\Server.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WcfServer" Source="WcfServer\IServer.cs" Description="File successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfServer\IServer.cs">
+</Event><Event ErrorLevel="0" Project="WcfServer" Source="WcfServer\Program.cs" Description="File successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfServer\Program.cs">
+</Event><Event ErrorLevel="0" Project="WcfServer" Source="WcfServer\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfServer\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WcfServer" Source="WcfServer\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfServer\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WcfServer" Source="WcfServer\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfServer\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WcfServer" Source="WcfServer\Wiadomosc.cs" Description="File successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfServer\Wiadomosc.cs">
+</Event><Event ErrorLevel="0" Project="WcfServer" Source="WcfServer\App.config" Description="File successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfServer\App.config">
+</Event><Event ErrorLevel="0" Project="WcfServer" Source="WcfServer\ClassDiagram1.cd" Description="File successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfServer\ClassDiagram1.cd">
+</Event><Event ErrorLevel="0" Project="WcfServer" Source="WcfServer\Properties\Settings.settings" Description="File successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfServer\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="WcfServer" Source="WcfServer\Globe1.ico" Description="File successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfServer\Globe1.ico">
+</Event><Event ErrorLevel="0" Project="WcfServer" Source="WcfServer\AboutBox1.resx" Description="File successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfServer\AboutBox1.resx">
+</Event><Event ErrorLevel="0" Project="WcfServer" Source="WcfServer\Server.resx" Description="File successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfServer\Server.resx">
+</Event><Event ErrorLevel="0" Project="WcfServer" Source="WcfServer\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfServer\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="WcfServer" Source="WcfServer\WcfServer.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WcfServer" Source="WcfServer\WcfServer.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WcfKlient" Source="WcfKlient\WcfKlient.csproj" Description="Project file successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfKlient\WcfKlient.csproj">
+</Event><Event ErrorLevel="0" Project="WcfKlient" Source="WcfKlient\AboutBox1.cs" Description="File successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfKlient\AboutBox1.cs">
+</Event><Event ErrorLevel="0" Project="WcfKlient" Source="WcfKlient\AboutBox1.Designer.cs" Description="File successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfKlient\AboutBox1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WcfKlient" Source="WcfKlient\KlientForm.cs" Description="File successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfKlient\KlientForm.cs">
+</Event><Event ErrorLevel="0" Project="WcfKlient" Source="WcfKlient\KlientForm.Designer.cs" Description="File successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfKlient\KlientForm.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WcfKlient" Source="WcfKlient\Private.cs" Description="File successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfKlient\Private.cs">
+</Event><Event ErrorLevel="0" Project="WcfKlient" Source="WcfKlient\Private.Designer.cs" Description="File successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfKlient\Private.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WcfKlient" Source="WcfKlient\Program.cs" Description="File successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfKlient\Program.cs">
+</Event><Event ErrorLevel="0" Project="WcfKlient" Source="WcfKlient\Properties\AssemblyInfo.cs" Description="File successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfKlient\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="WcfKlient" Source="WcfKlient\Properties\Resources.Designer.cs" Description="File successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfKlient\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WcfKlient" Source="WcfKlient\Properties\Settings.Designer.cs" Description="File successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfKlient\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="WcfKlient" Source="WcfKlient\ServerForm.cs" Description="File successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfKlient\ServerForm.cs">
+</Event><Event ErrorLevel="0" Project="WcfKlient" Source="WcfKlient\Zdarzenia.cs" Description="File successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfKlient\Zdarzenia.cs">
+</Event><Event ErrorLevel="0" Project="WcfKlient" Source="WcfKlient\App.config" Description="File successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfKlient\App.config">
+</Event><Event ErrorLevel="0" Project="WcfKlient" Source="WcfKlient\Properties\Settings.settings" Description="File successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfKlient\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="WcfKlient" Source="WcfKlient\Home.ico" Description="File successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfKlient\Home.ico">
+</Event><Event ErrorLevel="0" Project="WcfKlient" Source="WcfKlient\AboutBox1.resx" Description="File successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfKlient\AboutBox1.resx">
+</Event><Event ErrorLevel="0" Project="WcfKlient" Source="WcfKlient\KlientForm.resx" Description="File successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfKlient\KlientForm.resx">
+</Event><Event ErrorLevel="0" Project="WcfKlient" Source="WcfKlient\Private.resx" Description="File successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfKlient\Private.resx">
+</Event><Event ErrorLevel="0" Project="WcfKlient" Source="WcfKlient\Properties\Resources.resx" Description="File successfully backed up as C:\Users\Łukasz\Desktop\Backup\Backup\WcfKlient\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="WcfKlient" Source="WcfKlient\WcfKlient.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="WcfKlient" Source="WcfKlient\WcfKlient.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="WcfServer.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="WcfServer.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="WcfServer" Source="WcfServer\WcfServer.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event><Event ErrorLevel="0" Project="WcfKlient" Source="WcfKlient\WcfKlient.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>
